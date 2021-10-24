@@ -1,0 +1,10 @@
+C:\Users\akyol\Documents\YBS-GörselProgramlama\UzaySavaslariOyunu\UzaySavaslariOyunu\bin\Debug\UzaySavaslariOyunu.exe.config
+C:\Users\akyol\Documents\YBS-GörselProgramlama\UzaySavaslariOyunu\UzaySavaslariOyunu\bin\Debug\UzaySavaslariOyunu.exe
+C:\Users\akyol\Documents\YBS-GörselProgramlama\UzaySavaslariOyunu\UzaySavaslariOyunu\bin\Debug\UzaySavaslariOyunu.pdb
+C:\Users\akyol\Documents\YBS-GörselProgramlama\UzaySavaslariOyunu\UzaySavaslariOyunu\obj\Debug\UzaySavaslariOyunu.csprojAssemblyReference.cache
+C:\Users\akyol\Documents\YBS-GörselProgramlama\UzaySavaslariOyunu\UzaySavaslariOyunu\obj\Debug\UzaySavaslariOyunu.Form1.resources
+C:\Users\akyol\Documents\YBS-GörselProgramlama\UzaySavaslariOyunu\UzaySavaslariOyunu\obj\Debug\UzaySavaslariOyunu.Properties.Resources.resources
+C:\Users\akyol\Documents\YBS-GörselProgramlama\UzaySavaslariOyunu\UzaySavaslariOyunu\obj\Debug\UzaySavaslariOyunu.csproj.GenerateResource.cache
+C:\Users\akyol\Documents\YBS-GörselProgramlama\UzaySavaslariOyunu\UzaySavaslariOyunu\obj\Debug\UzaySavaslariOyunu.csproj.CoreCompileInputs.cache
+C:\Users\akyol\Documents\YBS-GörselProgramlama\UzaySavaslariOyunu\UzaySavaslariOyunu\obj\Debug\UzaySavaslariOyunu.exe
+C:\Users\akyol\Documents\YBS-GörselProgramlama\UzaySavaslariOyunu\UzaySavaslariOyunu\obj\Debug\UzaySavaslariOyunu.pdb
